@@ -2,13 +2,12 @@
 
 <h2>👩🏽‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/essenced83/ActiveDirectoryLab)
-  - [Hello World!](https://github.com/essenced83/LABURL)
+  - [llm-rag]([https://github.com/essenced83/ActiveDirectoryLab](https://github.com/essenced83/llm-rag))
 
 <h2>📜 Certifications </h2>
 
-Security+
-GFACT
+  - Security+
+  - GFACT
 
 <h2>📺 Popular YouTube Videos</h2>
 
