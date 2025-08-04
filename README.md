@@ -8,6 +8,9 @@
 
   - Security+
   - GFACT
+  - CCNA *studying*
+  - RHCSA *studying*
+  - eJPT *studying*
 
 <h2>⚒️ Projects </h2>
 - 🌱 I’m currently learning how to utilize Burp Suite to test against Web Application Vulnerabilites
