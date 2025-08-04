@@ -2,7 +2,7 @@
 
 <h2>👩🏽‍💻 Cybersecurity Projects:</h2>
 
-  - [llm-rag]([https://github.com/essenced83/ActiveDirectoryLab](https://github.com/essenced83/llm-rag))
+  - [cyber-lab-journal](https://github.com/essenced83/cyber-lab-journal)
 
 <h2>📜 Certifications </h2>
 
