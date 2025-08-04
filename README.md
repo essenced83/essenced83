@@ -4,6 +4,9 @@
 
   - [cyber-lab-journal](https://github.com/essenced83/cyber-lab-journal)
 
+<h2>⚒️ Current Day-to-Day </h2>
+- 🌱 I’m currently learning how to utilize Burp Suite to test against Web Application Vulnerabilites
+
 <h2>📜 Certifications </h2>
 
   - Security+
@@ -11,9 +14,6 @@
   - CCNA *studying*
   - RHCSA *studying*
   - eJPT *studying*
-
-<h2>⚒️ Projects </h2>
-- 🌱 I’m currently learning how to utilize Burp Suite to test against Web Application Vulnerabilites
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
