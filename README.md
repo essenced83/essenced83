@@ -9,6 +9,8 @@
   - Security+
   - GFACT
 
+<h2>⚒️ Projects </h2>
+- 🌱 I’m currently learning how to utilize Burp Suite to test against Web Application Vulnerabilites
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
