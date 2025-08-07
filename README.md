@@ -1,5 +1,8 @@
 <h1>Hi, I'm Essence! </h1>
 
+<h3>Featured Writeups!</h3>
+  - [Api Lab: Exploiting and endpoint through documentation](https://github.com/essenced83/cyber-lab-journal/web-security-academy/writeups/api-testing/index.md)
+
 <h2>👩🏽‍💻 Cybersecurity Projects:</h2>
 
   - [cyber-lab-journal](https://github.com/essenced83/cyber-lab-journal)
