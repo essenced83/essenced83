@@ -1,6 +1,6 @@
 <h1>Hi, I'm Essence! </h1>
 
-<h2>### Featured Writeups!</h2>
+<h2> Featured Writeups!</h2>
 
 - [API Lab: Exploiting an Endpoint Through Documentation](https://github.com/essenced83/cyber-lab-journal/blob/main/web-security-academy/writeups/api-testing/index.md)
 
