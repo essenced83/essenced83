@@ -8,7 +8,7 @@
 
   - [cyber-lab-journal](https://github.com/essenced83/cyber-lab-journal)
 
-<h2>⚒️ Current Day-to-Day </h2>
+<h2>🌞 Current Day-to-Day </h2>
 
 - 🌱 Learning how to utilize Burp Suite to test against Web Application Vulnerabilites
 - 🌱 Actively learning about Packet Tracer and how to create network topologies that make sense in an enterprise environment
@@ -22,9 +22,6 @@
   - RHCSA *studying*
   - eJPT *studying*
 
-<h2>⚒️ Current Projects</h2>
-
-- [CCNA](https://github.com/essenced83/cyber-lab-journal/issues/1)
 
 
 <!--
