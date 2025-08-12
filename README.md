@@ -24,7 +24,7 @@
 
 <h2>⚒️ Current Projects</h2>
 
-- [CCNA](https://github.com/essenced83/cyber-lab-journal)
+- [CCNA](https://github.com/essenced83/cyber-lab-journal/issues/1)
 
 
 <!--
