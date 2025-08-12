@@ -23,7 +23,9 @@
   - eJPT *studying*
 
 <h2>⚒️ Current Projects</h2>
-- [CCNA EXAM](https://github.com/essenced83/cyber-lab-journal/issues/1)
+
+- [CCNA](https://github.com/essenced83/cyber-lab-journal)
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
